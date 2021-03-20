@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.taosha.android",
+    "module": "android",
+    "version": "30",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "ytepacbq5verfpuwptz25pu6ge"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "android-30.jar",
+          "url": "android-30.jar",
+          "size": 21500314,
+          "sha512": "1bc68221b1a64e32ac2280ac052f22575984f6dd87272e518223fe9c86230782320870226f7b42177f8d9451f2854e9e4ea47d90ebac7ec185619b54cd23c98d",
+          "sha256": "96ccfdc84d15fad4e22d76cbb8ef38b150a4b56327957067875ca7e18113a424",
+          "sha1": "4b38cce150083ba42112bf7ee674e42cd4259fa4",
+          "md5": "9cdbd318b0f05f5a13762f4627485f02"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "android-30.jar",
+          "url": "android-30.jar",
+          "size": 21500314,
+          "sha512": "1bc68221b1a64e32ac2280ac052f22575984f6dd87272e518223fe9c86230782320870226f7b42177f8d9451f2854e9e4ea47d90ebac7ec185619b54cd23c98d",
+          "sha256": "96ccfdc84d15fad4e22d76cbb8ef38b150a4b56327957067875ca7e18113a424",
+          "sha1": "4b38cce150083ba42112bf7ee674e42cd4259fa4",
+          "md5": "9cdbd318b0f05f5a13762f4627485f02"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "android-30-sources.jar",
+          "url": "android-30-sources.jar",
+          "size": 3731592,
+          "sha512": "e48370df0e5ddf569f8a203a2af9afe64799350c241aa93cbfef62294f76e3d3a17bfd33cddf0b5c64f1849fb2503d8d7a769b610ba74c26082e205cd35c92c5",
+          "sha256": "fa5a776f4baf20e9eca78e65bcff32dd05aca379acbdf6d49718040c10619c2b",
+          "sha1": "cd66d5533079b6a7ccb387a474613d0d78ffa083",
+          "md5": "de0a7a0ed1f77b6066f527184213891a"
+        }
+      ]
+    }
+  ]
+}
