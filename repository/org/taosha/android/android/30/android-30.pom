@@ -10,9 +10,9 @@
   <groupId>org.taosha.android</groupId>
   <artifactId>android</artifactId>
   <version>30</version>
-  <name>Android SDK as Java library</name>
-  <description>The Android SDK as a Java library.</description>
-  <url>https://github.com/taosha/android-sdk</url>
+  <name>Android SDK as Jar</name>
+  <description>The Android SDK as a jar.</description>
+  <url>https://github.com/taosha/android-sdk.jar</url>
   <licenses>
     <license>
       <name>MIT License</name>
@@ -21,18 +21,14 @@
   </licenses>
   <developers>
     <developer>
-      <id>zhang-xue-feng</id>
+      <id>zhcnxf</id>
       <name>Shawn</name>
       <email>zhcnxf@gmail.com</email>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/taosha/android-sdk.git</connection>
-    <developerConnection>scm:git:ssh://github.com/taosha/android-sdk.git</developerConnection>
-    <url>https://github.com/taosha/android-sdk</url>
+    <connection>scm:git:git://github.com/taosha/android-sdk.jar.git</connection>
+    <developerConnection>scm:git:ssh://github.com/taosha/android-sdk.jar.git</developerConnection>
+    <url>https://github.com/taosha/android-sdk.jar</url>
   </scm>
-  <properties>
-    <myProp>value</myProp>
-    <prop.with.dots>anotherValue</prop.with.dots>
-  </properties>
 </project>
