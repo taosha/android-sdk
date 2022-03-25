@@ -1,2 +1,2 @@
-# android-sdk
-The android sdk as a java library.
+# android-sdk.jar
+The android sdk as a jar.
